@@ -1,0 +1,116 @@
+1. What does CPU stands for? 
+
+A. central processing unit 
+
+B. computer processing unit 
+
+C. center progress unit 
+
+D. central progress unit 
+
+
+2. What is RAM? 
+
+A. rambus access memory 
+
+B. randon access memory 
+
+C. remember access memory 
+
+D. remember alone model 
+
+
+
+3.Which of following has volatile memory? 
+
+A. hard drive 
+
+B. DVD 
+
+C. CD 
+
+D. RAM 
+
+ 
+
+4. Which of the following is secondary storage? 
+
+A. hard drive 
+
+B. note book 
+
+C. brain 
+
+D. RAM 
+
+ 
+
+5. A byte is made up of 8__. 
+
+A. character 
+
+B. string 
+
+C. bit 
+
+D. binary 
+
+
+
+6. Which programming language is been taught in INFO 1112? 
+
+A. Java 
+
+B. C++ 
+
+C. C# 
+
+D. PHP 
+
+
+
+7. Which cable provides the highest definition video? 
+
+A. HDMI 
+
+B. VGA 
+
+C. Mini-DIN 
+
+D. Mini-A 
+
+
+
+8. Which disk has the highest definition of video? 
+
+A. HD-DVD 
+
+B. floppy-disk 
+
+C. DVD 
+
+D. CD 
+
+
+
+9. To make files unreadable to others, what should you do? 
+
+A. compression 
+
+B. encryption 
+
+C. disk quotas 
+
+D. copy right 
+
+ 
+
+10. Which RAID level requires 3 same-sized volumes? 
+
+A. RAID 5 
+
+B. RAID 3 
+
+C. RAID 2 
+
+D. RAID 4 
