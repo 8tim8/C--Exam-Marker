@@ -26,7 +26,7 @@ namespace Exam_Marker
         {
             InitializeComponent();
         }
-
+       //stores answer into array
         char[] answer = {'A','B','D','A','C',
                          'C','A','A','B','A'};
         string wrong;
@@ -130,7 +130,7 @@ namespace Exam_Marker
 
             while (index < answer.Length && !inputFile.EndOfStream)
             {
-
+              //compare if answer is correct
                 if (answer[index].ToString() == inputFile.ReadLine())
                 {
                     right++;
