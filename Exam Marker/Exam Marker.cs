@@ -1,7 +1,7 @@
 /*
  Project: INFO 1112 Final Project
  File: Form1.cs
- Name: LiWen Tan
+ Name: Li Tan
  Section: 11
  Purpose: This program marks student exam in multiple choice format, and displays the exam results.
  */
